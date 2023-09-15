@@ -1,3 +1,5 @@
+
+/*
     create a class ChargingUnit
 
     --_id which is a string
@@ -15,8 +17,15 @@
 
     -- _cost_per_kw which is a float value  which is indicating the cost 
     the cost for using ChargingUnit for 1 kilo watt battery.
-
-
-likh rha hu time lagega.
     
+    
+
+    create special Member functions
+
+
+
+    --a function to create 5 objects of ChargingUnit type in a vector container using smartpointer
+      every object must have a unique _id value and unique _capacity value.
+
+      
 
