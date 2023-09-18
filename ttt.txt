@@ -27,5 +27,60 @@
     --a function to create 5 objects of ChargingUnit type in a vector container using smartpointer
       every object must have a unique _id value and unique _capacity value.
 
-      
+    --
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    create a class ChargingUnit
+
+    --_id which is a string
+
+    --_rating_kw which is a float value(indicating charging rating)
+
+    --_rating _kw --(indicating charging rating for the unit in kilowatt)
+
+    --_last5_discharged_units  --which could be a vector or array of 5 float values(bothcontainers should be acceptable)
+    
+    --  _capacity which is a float value.This value must be equal to or more than the combined  of total of _last_5_discharged_units
+    if the _capacity is less than the combined value, the object should be invalidated 
+     and an exception should be raised.
+
+
+    -- _cost_per_kw which is a float value  which is indicating the cost 
+    the cost for using ChargingUnit for 1 kilo watt battery.
+    
+    
+
+    create special Member functions
+
+
+
+    --a function to create 5 objects of ChargingUnit type in a vector container using smartpointer
+      every object must have a unique _id value and unique _capacity value.
