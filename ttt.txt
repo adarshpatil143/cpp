@@ -34,3 +34,10 @@ allows the following
   ---2)ability to use _location_code as label/key for amortized O(1) access
 
 */
+
+
+/*
+    A function to find the count of instances of HOTEL in the container that are 
+    of PREMIUM category with at least 1 Room in the _rooms container of _type DELUX
+
+*/
