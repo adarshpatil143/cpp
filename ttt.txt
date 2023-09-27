@@ -25,4 +25,12 @@ create a class Room
        1) -- for DELUX or MAPLE _type room ,it is 10% of the _price.
        2)--for LUXURY _type Room, it is 15% of the _price.
  */
- 
+/////////////////////////////
+
+
+ A  function to create 4 instances of HOTEL type in a container that
+allows the following 
+  ---1)ability to use iterators
+  ---2)ability to use _location_code as label/key for amortized O(1) access
+
+*/
