@@ -41,3 +41,12 @@ allows the following
     of PREMIUM category with at least 1 Room in the _rooms container of _type DELUX
 
 */
+
+
+/*
+
+    A function that accepts container of HOTEL instances and a container of
+     ---_location_code values as parameters. The function must copy the instances 
+        whose _location_code matches the _location_code values recieved in the second parameter
+     
+*/
