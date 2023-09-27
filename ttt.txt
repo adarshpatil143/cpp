@@ -98,3 +98,15 @@ D. store the function created in points B and C above in a data container functi
 E.Use the overloaded higher order  functions to call the functions stored in both the
   container containers
   */
+
+
+  HINT
+
+
+/*
+1)LOOP over the functions_set_A and send each function in the container to the higher
+  order function defined in point(1) above
+
+2) loop over the functions_set_B and send each function in the container to the higher order 
+   function defined in point(2) above
+*/
