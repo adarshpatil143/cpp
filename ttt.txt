@@ -85,3 +85,16 @@ functions
  C. Create a partial function by bindin the second parameter of function in point 6 to the value
      6.1
  */
+
+
+/*
+D. store the function created in points B and C above in a data container functions_set_b
+
+*/
+
+
+/*
+
+E.Use the overloaded higher order  functions to call the functions stored in both the
+  container containers
+  */
