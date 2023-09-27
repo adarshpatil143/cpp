@@ -18,3 +18,14 @@ _segment which is either PREMIUM , BUDGET, SORTS.
 
 
 _tax_amount which is always 5% of the _price of car.
+
+
+
+create a class insurance with the following attributes 
+
+-- _type which is either ZERO_DEBT OR REGULAR or ALL_INCLUSIVE
+--_premium which is a float value indicating the amount to be paid for one year of insurance cover.
+   this value must be 5% of the cars price or less. If the amount received while 
+   while constructing the object is more than this percentage, the object cannot be created and an exception must be raised
+
+-- _idv_amount which is an integer value.
