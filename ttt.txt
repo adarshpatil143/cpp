@@ -5,3 +5,13 @@ private:
     std::string _name;
     int _age; which ia an int value between 18 to 99 (both inclusive)
     //_credit_card which is a reference_wrapper to a shared_pointer to an instance of credit card
+
+
+
+class CreditCard
+{
+private:
+    float _number; //which is a 6 digit number
+    _type which is PREMIUM , SAVINGS or ELITE
+    _max_limit is an inter greater than 10000
+
