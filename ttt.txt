@@ -45,3 +45,10 @@ functions
       b)ability to add or remove elements with no limit on size(no fixed size for the container)
 
  */
+
+
+
+4. A function that counts and prints the number of customer instances who have a 
+   _credit_card with max_limit above a threshold value provided by the user as the 
+   second parameter
+ */
