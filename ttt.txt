@@ -1,0 +1,7 @@
+class Customer
+{
+private:
+    std::string _id;
+    std::string _name;
+    int _age; which ia an int value between 18 to 99 (both inclusive)
+    //_credit_card which is a reference_wrapper to a shared_pointer to an instance of credit card
