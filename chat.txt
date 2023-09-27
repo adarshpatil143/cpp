@@ -15,3 +15,5 @@ teams nhi khul raha.... verification code maang raha hai
 
 isme 5 instances of insurance class hoga ya car class hoga???
 
+insurance hoga aur vector lena hai
+
