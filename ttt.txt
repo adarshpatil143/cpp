@@ -50,3 +50,10 @@ allows the following
         whose _location_code matches the _location_code values recieved in the second parameter
      
 */
+
+
+/*
+A function to find and return the average _area of Room instances for ONLY
+the HOTEL instances whose _location_code is passed as the second parameter 
+to the function
+*/
