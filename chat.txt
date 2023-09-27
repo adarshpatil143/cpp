@@ -2,3 +2,16 @@ teams nhi khul raha.... verification code maang raha hai
 --koi nhi idhar bhej diya hu na poora
 
 -- kuch samajh nhi aa raha to pucho?
+
+
+--/*
+ Afunction to create 5 instances of the of insurance clas and store them into a
+ container that provides the following options
+  -ability to access any random position 
+  -constant size of the container with no constraints on size
+  -contigous storage of memory for objetcs 
+ 
+ */
+
+isme 5 instances of insurance class hoga ya car class hoga???
+
