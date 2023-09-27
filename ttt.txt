@@ -55,3 +55,39 @@ criteria
  
 
 */
+
+
+/*a function to find the and print a boolean toindicate if at
+ least one instance of the car instances matches the these below given
+ criteria
+
+ -_type of _insurance_policy is ZERO_DEBT
+ -_premium is below 15000.of.
+ -_size of the car instance is over 2.0 meters. 
+*/
+
+
+
+/*
+    A function to copy all instances from the data container whose _segment
+    matches the value passsed as the second parameter to the function in a
+    result container(select a container of your own choice)
+
+
+*/
+
+
+
+
+/*
+A function to find and return the pointer to the instance whose _serial_number
+matches the number passed as the second parameter to the function.
+*/
+
+
+/*
+A function to find the average_price  of all Car instances whose _brand
+ matches the string value passed as the seconf parametr to the function*/
+
+
+--kuch doubt hai to pucho
