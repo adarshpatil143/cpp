@@ -1,1 +1,20 @@
 h 
+
+class car
+{
+private:
+    std::string _serial_number;
+    std::string _brand;
+    float _size;// INCLUDING SIZE OF CARS IN METERS. this value must be between 1.5 and 4.0f.
+    _insurance_policy which is a shared_pointer to an instance of insurance insurance class
+
+
+_price which is float value indicaring the ex-showroom  price of the car
+this price should be between 4000000.0f and 25000000.0f.  
+*/
+
+_segment which is either PREMIUM , BUDGET, SORTS.
+*/
+
+
+_tax_amount which is always 5% of the _price of car.
