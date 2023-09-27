@@ -25,3 +25,4 @@ create a class Room
        1) -- for DELUX or MAPLE _type room ,it is 10% of the _price.
        2)--for LUXURY _type Room, it is 15% of the _price.
  */
+ 
