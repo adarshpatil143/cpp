@@ -9,3 +9,5 @@ answer:
 unordered map lagana hai 
 
 kuch to bolo
+
+pg: location_code ko static karna h ya normal pucho sir se
