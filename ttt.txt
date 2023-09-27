@@ -34,3 +34,14 @@ functions
              ii) output ->void
        c) a float paramater
  */
+
+
+
+ 
+ 3. A function to create 4 instances of Customer type in a container that
+    allows the following
+
+      a) storage of elements in non- consecutive memory locations
+      b)ability to add or remove elements with no limit on size(no fixed size for the container)
+
+ */
