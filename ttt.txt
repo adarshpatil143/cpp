@@ -24,5 +24,13 @@ functions
     b) A function wrapper that can wrap a function of the signature 
         i)input ->a data container
         ii)output -> void
-    
-*/
+    /////////////////////////
+
+  2. AN overload of the above higher order function that accepts
+
+      a) A data container of customer instances
+       b)A function wrapper that can wrap a function of the signature
+             i)input -> A data container & a float value
+             ii) output ->void
+       c) a float paramater
+ */
