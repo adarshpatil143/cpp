@@ -13,3 +13,15 @@ private:
     ->_rooms which is fixed size of container of size three to store instances of type room.
     _category which could be wither PREMIUM, STAY, MOTEL.
     
+
+
+/*
+create a class Room
+
+ ->_area which is a float indicating the carpet size of the room
+ ->_type which is either DELUX,MAPLE, LUXURY.
+ ->_price which is a float value indicating per night cost of the room
+ ->_tax_amount which is  calculated as per the following
+       1) -- for DELUX or MAPLE _type room ,it is 10% of the _price.
+       2)--for LUXURY _type Room, it is 15% of the _price.
+ */
