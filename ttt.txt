@@ -71,3 +71,17 @@ functions
 
 
  in the main.cpp write the code for the following
+
+
+ A. create a container functions_set_A of function wrappers which contain functions
+    3,6 and 7 described above
+
+ /*
+ B. create a partial function by binding second parameter of function in point to the value 4.5
+ */
+
+
+ /*
+ C. Create a partial function by bindin the second parameter of function in point 6 to the value
+     6.1
+ */
