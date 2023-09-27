@@ -100,9 +100,9 @@ E.Use the overloaded higher order  functions to call the functions stored in bot
   */
 
 
-  HINT
 
 
+  HINT:
 /*
 1)LOOP over the functions_set_A and send each function in the container to the higher
   order function defined in point(1) above
