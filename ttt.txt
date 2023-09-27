@@ -15,3 +15,14 @@ private:
     _type which is PREMIUM , SAVINGS or ELITE
     _max_limit is an inter greater than 10000
 
+
+
+functions
+/*
+1. A higher order function that accepts 
+    a) A data container of Customer instances
+    b) A function wrapper that can wrap a function of the signature 
+        i)input ->a data container
+        ii)output -> void
+    
+*/
