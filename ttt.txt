@@ -29,3 +29,29 @@ create a class insurance with the following attributes
    while constructing the object is more than this percentage, the object cannot be created and an exception must be raised
 
 -- _idv_amount which is an integer value.
+////////////////////////////////////////////////
+
+
+
+/*
+ Afunction to create 5 instances of the of insurance clas and store them into a
+ container that provides the following options
+  -ability to access any random position 
+  -constant size of the container with no constraints on size
+  -contigous storage of memory for objetcs 
+ 
+ */
+
+
+/*
+A function to find and return the count of instances which meet the following
+criteria
+
+ -_price is above 600000.0f
+ -_segment is BUDGET
+ -_idv_amount for the _insurance_policy segment of the instance is at 
+   least 50% of the _price of the car instance.
+
+ 
+
+*/
