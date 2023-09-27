@@ -68,3 +68,6 @@ functions
  6. A function to print "TRUE" or " FALSE"  to indicate whether all customers instances have 
  the _credit_card of type ELITE
  */
+
+
+ in the main.cpp write the code for the following
