@@ -52,3 +52,10 @@ functions
    _credit_card with max_limit above a threshold value provided by the user as the 
    second parameter
  */
+
+
+/*
+     5. A function to find and print the type of every _credit_card for ONLY THOSE CreditCard
+     instances that are associated with Customer instances whose age is above a threshold value
+     provided by the user as the second parameter.
+*/
