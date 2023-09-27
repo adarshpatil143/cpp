@@ -57,3 +57,14 @@ A function to find and return the average _area of Room instances for ONLY
 the HOTEL instances whose _location_code is passed as the second parameter 
 to the function
 */
+
+/*
+ A function to return N instances of HOTEL in a container whose _category
+ matches the second parameter recieved in the function
+*/
+
+/*
+    A function to return boolean to indicate whether the a Hotel instance
+    exists in the data contanier whose _location_code passed as
+     the second parameter to the function
+*/
